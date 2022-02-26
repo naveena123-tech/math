@@ -1,0 +1,74 @@
+h1{
+    font-family: fantasy;
+    font-size: 100px;
+    text-align: center;
+    color: green;
+}
+section{
+    background-color: lightblue;
+        
+}
+#basic{
+    color: white;
+    font-size: 40px;
+    background-color:red;
+  padding-left: 3%;
+    padding-right: 3%;
+}
+#decimals{
+    color: white;
+    font-size: 40px;
+    background-color:mediumblue;
+  padding-left: 3%;
+    padding-right: 3%;
+}
+#integers{
+    color: white;
+    font-size: 40px;
+    background-color:blueviolet;
+  padding-left: 3%;
+    padding-right: 3%;
+}
+#fractions{
+    color: white;
+    font-size: 40px;
+    background-color:limegreen;
+  padding-left: 2%;
+    padding-right: 2%;
+}
+#ratio{
+    color: white;
+    font-size: 40px;
+    background-color:purple;
+  padding-left: 2%;
+    padding-right: 2%;
+}
+#algebra{
+    color: white;
+    font-size: 40px;
+    background-color:maroon;
+  padding-left: 2%;
+    padding-right: 2%;
+}
+#panda{
+    color: white;
+    font-size: 40px;
+    background-color:darkcyan;
+  
+}
+h2{
+    font-family:inherit;
+    font-size: 70px;
+    color: blue;
+  
+}
+p{
+    font-size: 40px;
+    color: crimson;
+}
+h3{
+    font-family:fantasy;
+    font-size: 50px;
+    color:purple;
+}
+
